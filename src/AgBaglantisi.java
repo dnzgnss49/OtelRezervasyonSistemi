@@ -18,7 +18,6 @@ public class AgBaglantisi {
             System.err.println("URL bağlantısı sırasında hata oluştu: " + e.getMessage());
         }
     }
-
-    // Benzer şekilde diğer ağ işlemleri.
+    
 }
 
